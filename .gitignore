@@ -1,0 +1,30 @@
+# Virtual Environments (Libraries)
+venv/
+.venv/
+
+
+# Byte-compiled / Python cache
+__pycache__/
+*.pyc
+*$py.class
+
+# Data Files & Directories
+data_sets/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.json
+*.zip
+*.gz
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS Specific Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
