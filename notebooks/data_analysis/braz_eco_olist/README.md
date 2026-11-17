@@ -15,6 +15,7 @@ Questions to investigate:
 
 1. Which product categories generate the most revenue?
 2. Which states generate the most orders?
+   2.1 is there a relationship between states generating the most orders and delivery quality ?
 3. What percentage of orders arrive late?
 4. Does delivery delay correlate with lower review scores?
 5. Which customers make repeat purchases?
@@ -29,7 +30,7 @@ Questions to investigate:
 - customer_id :
   key to the orders dataset. Each order has a unique customer_id.
 
-- ustomer_unique_id :
+- customer_unique_id :
   unique identifier of a customer.
 
 - customer_zip_code_prefix:
